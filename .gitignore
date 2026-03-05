@@ -1,0 +1,9 @@
+venv/
+dataset/
+models/
+outputs/
+__pycache__/
+*.pyc
+*.h5
+*.zip
+.DS_Store
